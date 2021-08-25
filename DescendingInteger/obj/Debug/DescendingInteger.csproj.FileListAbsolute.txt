@@ -1,0 +1,7 @@
+C:\Users\Samet UCA\source\repos\Kata\DescendingInteger\bin\Debug\DescendingInteger.exe.config
+C:\Users\Samet UCA\source\repos\Kata\DescendingInteger\bin\Debug\DescendingInteger.exe
+C:\Users\Samet UCA\source\repos\Kata\DescendingInteger\bin\Debug\DescendingInteger.pdb
+C:\Users\Samet UCA\source\repos\Kata\DescendingInteger\obj\Debug\DescendingInteger.csproj.AssemblyReference.cache
+C:\Users\Samet UCA\source\repos\Kata\DescendingInteger\obj\Debug\DescendingInteger.csproj.CoreCompileInputs.cache
+C:\Users\Samet UCA\source\repos\Kata\DescendingInteger\obj\Debug\DescendingInteger.exe
+C:\Users\Samet UCA\source\repos\Kata\DescendingInteger\obj\Debug\DescendingInteger.pdb

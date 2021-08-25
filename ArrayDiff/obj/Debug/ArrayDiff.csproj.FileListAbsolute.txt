@@ -1,0 +1,7 @@
+C:\Users\Samet UCA\source\repos\Kata\ArrayDiff\bin\Debug\ArrayDiff.exe.config
+C:\Users\Samet UCA\source\repos\Kata\ArrayDiff\bin\Debug\ArrayDiff.exe
+C:\Users\Samet UCA\source\repos\Kata\ArrayDiff\bin\Debug\ArrayDiff.pdb
+C:\Users\Samet UCA\source\repos\Kata\ArrayDiff\obj\Debug\ArrayDiff.csproj.AssemblyReference.cache
+C:\Users\Samet UCA\source\repos\Kata\ArrayDiff\obj\Debug\ArrayDiff.csproj.CoreCompileInputs.cache
+C:\Users\Samet UCA\source\repos\Kata\ArrayDiff\obj\Debug\ArrayDiff.exe
+C:\Users\Samet UCA\source\repos\Kata\ArrayDiff\obj\Debug\ArrayDiff.pdb
