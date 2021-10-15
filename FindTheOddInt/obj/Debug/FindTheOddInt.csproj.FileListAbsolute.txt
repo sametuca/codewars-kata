@@ -1,0 +1,6 @@
+C:\Users\samet\source\repos\codewars-kata\FindTheOddInt\bin\Debug\FindTheOddInt.exe
+C:\Users\samet\source\repos\codewars-kata\FindTheOddInt\bin\Debug\FindTheOddInt.pdb
+C:\Users\samet\source\repos\codewars-kata\FindTheOddInt\obj\Debug\FindTheOddInt.csproj.AssemblyReference.cache
+C:\Users\samet\source\repos\codewars-kata\FindTheOddInt\obj\Debug\FindTheOddInt.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\codewars-kata\FindTheOddInt\obj\Debug\FindTheOddInt.exe
+C:\Users\samet\source\repos\codewars-kata\FindTheOddInt\obj\Debug\FindTheOddInt.pdb

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQTest", "IQTest\IQTest.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDiff", "ArrayDiff\ArrayDiff.csproj", "{64E68F01-B2EA-4590-8CA9-FD76F811009C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheOddInt", "FindTheOddInt\FindTheOddInt.csproj", "{EDBF7EFE-E6FC-45D1-A6BB-A8280714E4DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{64E68F01-B2EA-4590-8CA9-FD76F811009C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64E68F01-B2EA-4590-8CA9-FD76F811009C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64E68F01-B2EA-4590-8CA9-FD76F811009C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDBF7EFE-E6FC-45D1-A6BB-A8280714E4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBF7EFE-E6FC-45D1-A6BB-A8280714E4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBF7EFE-E6FC-45D1-A6BB-A8280714E4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBF7EFE-E6FC-45D1-A6BB-A8280714E4DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

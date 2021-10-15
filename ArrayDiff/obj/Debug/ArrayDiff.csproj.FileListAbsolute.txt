@@ -5,3 +5,10 @@ C:\Users\Samet UCA\source\repos\Kata\ArrayDiff\obj\Debug\ArrayDiff.csproj.Assemb
 C:\Users\Samet UCA\source\repos\Kata\ArrayDiff\obj\Debug\ArrayDiff.csproj.CoreCompileInputs.cache
 C:\Users\Samet UCA\source\repos\Kata\ArrayDiff\obj\Debug\ArrayDiff.exe
 C:\Users\Samet UCA\source\repos\Kata\ArrayDiff\obj\Debug\ArrayDiff.pdb
+C:\Users\samet\source\repos\codewars-kata\ArrayDiff\bin\Debug\ArrayDiff.exe.config
+C:\Users\samet\source\repos\codewars-kata\ArrayDiff\bin\Debug\ArrayDiff.exe
+C:\Users\samet\source\repos\codewars-kata\ArrayDiff\bin\Debug\ArrayDiff.pdb
+C:\Users\samet\source\repos\codewars-kata\ArrayDiff\obj\Debug\ArrayDiff.csproj.AssemblyReference.cache
+C:\Users\samet\source\repos\codewars-kata\ArrayDiff\obj\Debug\ArrayDiff.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\codewars-kata\ArrayDiff\obj\Debug\ArrayDiff.exe
+C:\Users\samet\source\repos\codewars-kata\ArrayDiff\obj\Debug\ArrayDiff.pdb
